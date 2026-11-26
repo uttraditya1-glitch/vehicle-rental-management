@@ -30,3 +30,9 @@ A console-based **Vehicle Rental Management System** built in Python 3. The appl
 ├── rental_system.py   # Main Python 3 console application
 ├── vehicles.txt       # Auto-generated file storing vehicle inventory and rental status
 └── README.md          # Project documentation
+
+
+PROJECT MENTOR
+Mentored by: Mr. Satyaprakash Sethy
+GitHub: @SATYAPRAKASHSETHY
+Role:   Python mentor/ Technical Guide
